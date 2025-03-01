@@ -10,6 +10,7 @@ streamlit-pandas-profiling
 streamlit-lottie
 requests
 sweetviz
+setuptools
 
 # Type stubs
 pandas-stubs
