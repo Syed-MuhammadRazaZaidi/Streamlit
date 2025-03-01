@@ -9,6 +9,7 @@ xlrd
 streamlit-pandas-profiling
 streamlit-lottie
 requests
+sweetviz
 
 # Type stubs
 pandas-stubs
